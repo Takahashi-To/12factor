@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1fd297fc-548e-467d-a0e6-1c28d2d978c5/resourceGroups/g-12fa-totakahashi/providers/Microsoft.Web/sites/app-12fa-totakahashi",
+    "appService.deploySubpath": "bin\\Publish"
+}
